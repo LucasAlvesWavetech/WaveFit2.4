@@ -1,10 +1,4 @@
-<style>
-.p {
-  font-family: "Times New Roman", Times, serif;
-  
-}
 
-</style>
 # WaveFit2.4
 
 Wavefit 2.4 é uma aplicção destinada a ajuste de aparelho auditivo, este projeto foi desenvolvido utilizando wpf como o front de todo o sistema e o 
